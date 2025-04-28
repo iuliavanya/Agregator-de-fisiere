@@ -1,6 +1,6 @@
 # Agregator-de-fisiere
 
-# 🌐 Client-Server File Management System
+
 
 Acest proiect reprezintă o aplicație **client-server** în C pentru gestionarea de fișiere. Utilizatorii se pot autentifica, vizualiza structura directoarelor, transfera fișiere, șterge fișiere/directoare, căuta fișiere și realiza snapshot-uri ale fișierelor existente.
 
